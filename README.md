@@ -74,5 +74,4 @@ This module is designed as an extension, not a dependency of the core system.
 ## Contact
 
 - **LinkedIn:** https://linkedin.com/in/ahmetk00  
-- **GitHub:** https://github.com/osiass  
 - **Email:** ahmetkoc.iletisim@gmail.com  
