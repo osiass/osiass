@@ -17,7 +17,7 @@ My main focus areas are:
 - **Mobile application development** with Flutter
 - Retrieval-Augmented Generation (RAG) and intelligent data pipelines
 
-I am currently building **[EduSum](https://github.com/osiass/edusummarizer)**, an AI-driven educational platform that transforms raw educational content into structured, interactive learning materials.
+I am currently building Ozetle, an AI-driven educational platform that transforms raw educational content into structured, interactive learning materials.
 
 ---
 
